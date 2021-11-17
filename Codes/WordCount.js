@@ -1,3 +1,5 @@
+/* Word Count, find out how many words
+ */
 var str="Hello Earthling!"
 function WordCount(str) { 
 
