@@ -1,3 +1,5 @@
+/* Alphabet Soup, sort the letters of your word alphabetically with Array,
+Output: String */
 var str="challange"; //aaecghlln - string expression
 
 function AlphabetSoup(str){
