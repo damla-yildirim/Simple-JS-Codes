@@ -16,6 +16,6 @@ function WordCount(str) {
         space++;
       }
     }  
-    console.log(space); 
+    return space; 
   
   }
