@@ -16,5 +16,5 @@ function AlphabetSoup(str){
                 output=output+order[i];
             }
         }
-    console.log(output);
+    return output;
 }
