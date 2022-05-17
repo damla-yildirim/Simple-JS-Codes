@@ -8,7 +8,7 @@ var str="wwwbbbw"
 function RunLength(str){
 
     var output=""
-    counter=1
+    var counter=1
     var letter=str[0]
 
     for(var i=1;i<str.length;i++)
